@@ -33,11 +33,14 @@ The game will display the progress of your guesses and inform you if you win or 
 
 ## Game Logic
 Below I will explain the logic of each method in the Hangman class:
-
-def __init__ function: defines attributes for the hangman class.
-def check_guess: Checks guesses from user input against the letters in the randomly generated word.
-def ask_for_input: This method asks the user for a letter and will print a response dependant of if that letter is valid or has already been used.
-def play_game: This method determines the outcome of the came.
+<h4>def __init__ function </h4>
+Defines attributes for the hangman class.
+<h4>def check_guess </h4>
+Checks guesses from user input against the letters in the randomly generated word.
+<h4>def ask_for_input </h4>
+This method asks the user for a letter and will print a response dependant of if that letter is valid or has already been used.
+<h4>def play_game </h4>
+This method determines the outcome of the game.
 
 ## File Structure
 |---milestone 5
