@@ -3,13 +3,11 @@
 <h1>Project Title: Hangman Game </h1>
 
 # Table of Contents
-1. [Description](#Description)
-2. [InstallationInstructions](#Installation Instructions)
-3. [GameLogic](#Game Logic)
-4. [FileStructure](#File Structure)
-5. [LicenseInformation](#License Information)
-
-
+- [Description](#description)
+- [Installation Instructions](#installation-instructions)
+- [Game Logic](#game-logic)
+- [File Structure](#file-structure)
+- [License Information](#license-information)
 
 
 ## Description:
