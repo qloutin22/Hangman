@@ -4,10 +4,10 @@
 
 # Table of Contents
 1. [Description](#Description)
-2. [Installation Instructions](#Installation Instructions)
-3. [Game Logic](#Game Logic)
-4. [File Structure](#File Structure)
-5. [License Information](#License Information)
+2. [InstallationInstructions](#Installation Instructions)
+3. [GameLogic](#Game Logic)
+4. [FileStructure](#File Structure)
+5. [LicenseInformation](#License Information)
 
 
 
